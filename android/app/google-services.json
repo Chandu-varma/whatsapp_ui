@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541814546798",
+    "project_id": "whats-app-riverpod",
+    "storage_bucket": "whats-app-riverpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541814546798:android:04e3145978331744a4e17f",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9NZTJF57GC2Uk0XFB-Vv1lTCKT6gGa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
